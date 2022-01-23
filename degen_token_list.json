@@ -1,0 +1,160 @@
+{
+  "name": "DEGENHAUS Default List",
+  "timestamp": "2021-12-11T17:23:19Z",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["DegenHaus", "default"],
+  "tokens": [
+    {
+      "name": "Dope Token Degen Haus",
+      "symbol": "DOPE",
+      "address": "0x9f3c6e1bd483cd977df9b36734e1cd684f1be621",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://app.degen.haus/images/tokens/0x9f3c6e1bd483cd977df9b36734e1cd684f1be621.png",
+    },
+    {
+      "name": "Trip Token Degen Haus",
+      "symbol": "TRIP",
+      "address": "0xd948efcc99be419ca9bdace89b2bec31edf13adb",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://app.degen.haus/images/tokens/0xd948efcc99be419ca9bdace89b2bec31edf13adb.png",
+    },
+    {
+      "name": "Blow Token Degen Haus",
+      "symbol": "BLOW",
+      "address": "0x63C4DbC02c6198daaE6adac6190d575541E2E2e0",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://app.degen.haus/images/tokens/0x63C4DbC02c6198daaE6adac6190d575541E2E2e0.png",
+    },
+    {
+      "name": "Just Yours",
+      "symbol": "JUST",
+      "address": "0x37c045be4641328dfeb625f1dde610d061613497",
+      "chainId": 250,
+      "decimals": 10,
+      "logoURI": "https://app.degen.haus/images/tokens/0x37c045be4641328dfeb625f1dde610d061613497.png",
+    },
+    {
+      "name": "Grim Token",
+      "symbol": "GRIM",
+      "address": "0x7eC94C4327dC757601B4273cD67014d7760Be97E",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://app.degen.haus/images/tokens/0x7eC94C4327dC757601B4273cD67014d7760Be97E.png",
+    },
+    {
+      "name": "Reaper by Grim Finance",
+      "symbol": "REAPER",
+      "address": "0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://app.degen.haus/images/tokens/0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb.png",
+    },
+    {
+      "name": "SPIRIT",
+      "symbol": "Spirit",
+      "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/spiritswap_32.png",
+    },
+    {
+      "name": "Cryptokek.com",
+      "symbol": "KEK",
+      "address": "0x627524d78B4fC840C887ffeC90563c7A42b671fD",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://app.degen.haus/images/tokens/0x627524d78B4fC840C887ffeC90563c7A42b671fD.png",
+      "bridgeId": "kekv3",
+      "nativeChain": "eth"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://app.degen.haus/images/tokens/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E.png",
+      "bridgeId": "daiv2",
+      "nativeChain": "eth"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://app.degen.haus/images/tokens/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75.png",
+      "bridgeId": "usdcv2",
+      "nativeChain": "eth"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "wBTC",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "chainId": 250,
+      "decimals": 8,
+      "logoURI": "https://ftmscan.com/token/images/wBTC_32.png",
+      "bridgeId": "wbtcv2",
+      "nativeChain": "eth"
+    },
+    {
+      "name": "Wrapped FTM",
+      "symbol": "wFTM",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/wFtm_32.png",
+      "bridgeId": "fantom",
+      "nativeChain": ""
+    },
+    {
+      "name": "TOMB",
+      "symbol": "TOMB",
+      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://app.degen.haus/images/tokens/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://app.degen.haus/images/tokens/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "AVAX",
+      "symbol": "AVAX",
+      "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.spookyswap.finance/tokens/AVAX.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    },
+    {
+      "name": "TSHARE",
+      "symbol": "TSHARE",
+      "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/tshare_32.png",
+      "bridgeId": "",
+      "nativeChain": ""
+    }
+  ]
+}
