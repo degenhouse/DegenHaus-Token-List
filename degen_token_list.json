@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "logoURI": "https://app.degen.haus/images/home/cake/coin@2x.png",
   "keywords": ["DegenHaus", "default"],
   "tokens": [
     {
@@ -64,7 +64,7 @@
       "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://ftmscan.com/token/images/spiritswap_32.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/DegenHaus-Token-List/master/Degen%20Haus%20Token%20Logos/SPIRIT.png",
     },
     {
       "name": "Cryptokek.com",
@@ -102,7 +102,7 @@
       "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
       "chainId": 250,
       "decimals": 8,
-      "logoURI": "https://ftmscan.com/token/images/wBTC_32.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/DegenHaus-Token-List/master/Degen%20Haus%20Token%20Logos/WBTC.png",
       "bridgeId": "wbtcv2",
       "nativeChain": "eth"
     },
@@ -112,7 +112,7 @@
       "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://ftmscan.com/token/images/wFtm_32.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/DegenHaus-Token-List/master/Degen%20Haus%20Token%20Logos/WFTM.png",
       "bridgeId": "fantom",
       "nativeChain": ""
     },
@@ -142,7 +142,7 @@
       "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/AVAX.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/DegenHaus-Token-List/master/Degen%20Haus%20Token%20Logos/AVAX.png",
       "bridgeId": "",
       "nativeChain": ""
     },
@@ -152,7 +152,7 @@
       "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://ftmscan.com/token/images/tshare_32.png",
+      "logoURI": "https://raw.githubusercontent.com/degenhouse/DegenHaus-Token-List/master/Degen%20Haus%20Token%20Logos/TSHARE.png",
       "bridgeId": "",
       "nativeChain": ""
     }
